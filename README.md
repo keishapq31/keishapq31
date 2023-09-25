@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @keishapq31
-- 👀 I’m interested in lots of things
-- 🌱 Faculty of Earth Sciences and Technology
+- 👋 I’m @keishapq31
+- 👀 I’m interested in lots of things, mainly rocks
+- 🌏 Geological Engineering
 - 📫 IG: k_sny31
 
 <!---
